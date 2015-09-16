@@ -1,0 +1,3 @@
+001-0932b00	T 001-0932b	buddhist/T-taisho/T21/09/T21-0932.png
+001-0932c00	T 001-0932c	buddhist/T-taisho/T21/09/T21-0932.png
+001-0933a00	T 001-0933a	buddhist/T-taisho/T21/09/T21-0933.png
