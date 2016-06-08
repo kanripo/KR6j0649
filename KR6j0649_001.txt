@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:06.798740
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:43
 #+TITLE: 佛說壞相金剛陀羅尼經
 #+PROPERTY: CBETA_ID T21n1417
 #+PROPERTY: ID KR6j0649
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1417
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0649_T_000-0932a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0649_T_001-0932a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1417¶
-
- 佛說壞相金剛陀羅尼經¶
+No. 1417¶
+佛說壞相金剛陀羅尼經¶
 ¶
 光祿大夫大司徒三藏法師¶
 沙囉巴奉　詔譯¶
@@ -135,7 +134,7 @@ No.1417¶
 　數念二十一
 　或滿百八遍¶
 　壞相金剛呪
-　國王常沐浴
+　國王常沐浴」
 #+END_VERSE
-」¶
+¶
 佛說壞相金剛陀羅尼經
